@@ -1,7 +1,7 @@
 # PBO Matkul Manajemen Karyawan
-Nama  : Danial Hirzan Akbary
+<pre>Nama  : Danial Hirzan Akbary
 NIM   : 2409116098
-Dosen Pengampu   : 
+Dosen Pengampu   : </pre>
 
 ## 1. Inheritance (Pewarisan)
 
