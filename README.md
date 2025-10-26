@@ -1,7 +1,7 @@
 # PBO Matkul Manajemen Karyawan
 <pre>Nama  : Danial Hirzan Akbary
 NIM   : 2409116098
-Dosen Pengampu   : Muhammad Fawaz Saputra, S.T., M.Eng.</pre>
+Dosen Pengampu   : Muhammad Fawaz Saputra, S.T., M.Eng</pre>
 
 ## 1. Inheritance (Pewarisan)
 
