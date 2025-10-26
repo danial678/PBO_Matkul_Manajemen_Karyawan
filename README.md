@@ -1,4 +1,4 @@
-# PBO Matkul Manajemen Karyawan
+# Nasi Lele Pak kumisManajemen Gaji Karyawan
 <pre>Nama  : Danial Hirzan Akbary
 NIM   : 2409116098
 Dosen Pengampu   : Muhammad Fawaz Saputra, S.T., M.Eng</pre>
