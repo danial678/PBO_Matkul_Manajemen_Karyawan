@@ -14,7 +14,9 @@ Class Induk :
 
 <img width="548" height="137" alt="image" src="https://github.com/user-attachments/assets/bba75892-6d8a-4e04-8e73-95d5ea62fed2" />
 
+
 CLass Turunan :
+
 
 <img width="657" height="80" alt="image" src="https://github.com/user-attachments/assets/a9b58f13-3f4b-4d92-9023-b55450a4b166" />
 
@@ -37,6 +39,7 @@ Enkapsulasi digunakan untuk melindungi data dengan menjadikan atribut bersifat p
 Dengan ini, data tidak bisa diubah secara langsung dari luar class, menjaga keamanan dan konsistensi objek.
 
 Contoh implementasi:
+
 <img width="556" height="138" alt="image" src="https://github.com/user-attachments/assets/cdab1bb8-1306-4fc1-9acc-fff9d2c244a2" />
 
 <img width="716" height="84" alt="image" src="https://github.com/user-attachments/assets/ec5215b8-8829-49e6-a4c1-c377601c99ee" />
@@ -44,6 +47,6 @@ Contoh implementasi:
 <img width="681" height="85" alt="image" src="https://github.com/user-attachments/assets/c958bc8e-06d6-4440-b057-e43f5931d969" />
 
 
-## Hasil Output
+## 4. Hasil Output
 
 <img width="745" height="254" alt="image" src="https://github.com/user-attachments/assets/fe6adcd7-520c-42b0-a23a-68e507972c9c" />
